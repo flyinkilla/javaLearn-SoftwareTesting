@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94502759-3d81-448d-91f2-8d3ee245a962" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/sandbox">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZOr9PDNMQBXDvQPLPFOioLzatA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <module name="sandbox.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94502759-3d81-448d-91f2-8d3ee245a962" name="Default Changelist" comment="" />
+      <created>1584720832643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584720832643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="25" key="#Project_Structure" timestamp="1584720909595">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="279" y="25" key="#Project_Structure/0.0.1366.724@0.0.1366.724" timestamp="1584720909595" />
+    <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584721620036">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.724@0.0.1366.724" timestamp="1584721620036" />
+    <state x="467" y="81" key="FileChooserDialogImpl" timestamp="1584721551253">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="467" y="81" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1584721551253" />
+    <state x="210" y="0" key="SettingsEditor" timestamp="1584721597037">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="210" y="0" key="SettingsEditor/0.0.1366.724@0.0.1366.724" timestamp="1584721597036" />
+    <state x="400" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584720852198">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="400" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1584720852198" />
+  </component>
+</project>
