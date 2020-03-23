@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94502759-3d81-448d-91f2-8d3ee245a962" name="Default Changelist" comment="" />
+    <list default="true" id="94502759-3d81-448d-91f2-8d3ee245a962" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/javaLearn/sandbox/MyFirstProgram.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +18,33 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/sandbox">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -41,9 +68,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.javaLearn.sandbox" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.javaLearn.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,17 +109,37 @@
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.724@0.0.1366.724" timestamp="1584721620036" />
-    <state x="467" y="81" key="FileChooserDialogImpl" timestamp="1584721551253">
+    <state x="496" y="252" width="373" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584974585427">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="467" y="81" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1584721551253" />
+    <state x="496" y="252" width="373" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.724@0.0.1366.724" timestamp="1584974585427" />
+    <state x="467" y="81" key="FileChooserDialogImpl" timestamp="1584974312715">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="467" y="81" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1584974312715" />
+    <state width="1324" height="175" key="GridCell.Tab.0.bottom" timestamp="1584731332705">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="175" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
+    <state width="1324" height="175" key="GridCell.Tab.0.center" timestamp="1584731332705">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="175" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
+    <state width="1324" height="175" key="GridCell.Tab.0.left" timestamp="1584731332705">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="175" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
+    <state width="1324" height="175" key="GridCell.Tab.0.right" timestamp="1584731332705">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="175" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
     <state x="210" y="0" key="SettingsEditor" timestamp="1584721597037">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="210" y="0" key="SettingsEditor/0.0.1366.724@0.0.1366.724" timestamp="1584721597036" />
-    <state x="400" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584720852198">
+    <state x="400" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584973602022">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="400" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1584720852198" />
+    <state x="400" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1584973602022" />
   </component>
 </project>
