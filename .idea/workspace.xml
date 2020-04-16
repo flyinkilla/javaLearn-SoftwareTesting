@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94502759-3d81-448d-91f2-8d3ee245a962" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/javaLearn/sandbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/addressbook-web-tests">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/sandbox">
       <ProjectState />
     </projectState>
@@ -21,27 +25,19 @@
         <task path="$PROJECT_DIR$/sandbox">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/addressbook-web-tests">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="addressbook-web-tests" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="addressbook-web-tests" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
             </expand>
@@ -54,26 +50,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZOr9PDNMQBXDvQPLPFOioLzatA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/addressbook-web-tests/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.proportion" value="0.26367188" />
+    <property name="project.structure.side.proportion" value="0.27622843" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.stqa.javaLearn.sandbox" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.addressbook-web-tests [build]">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.javaLearn.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
@@ -81,8 +85,88 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="addressbook-web-tests [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="addressbook-web-tests [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="addressbook-web-tests [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="addressbook-web-tests [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.addressbook-web-tests [build]" />
+        <item itemvalue="Gradle.addressbook-web-tests [buildDependents]" />
+        <item itemvalue="Gradle.addressbook-web-tests [wrapper]" />
+        <item itemvalue="Gradle.addressbook-web-tests [init]" />
         <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
@@ -101,45 +185,69 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="25" key="#Project_Structure" timestamp="1584720909595">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state x="93" y="36" width="1339" height="853" key="#Project_Structure" timestamp="1586971072735">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="279" y="25" key="#Project_Structure/0.0.1366.724@0.0.1366.724" timestamp="1584720909595" />
+    <state x="93" y="36" width="1339" height="853" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586971072735" />
     <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584721620036">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="142" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.724@0.0.1366.724" timestamp="1584721620036" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586969962271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586969962271" />
     <state x="496" y="252" width="373" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584974585427">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="496" y="252" width="373" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.724@0.0.1366.724" timestamp="1584974585427" />
-    <state x="467" y="81" key="FileChooserDialogImpl" timestamp="1584974312715">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state x="656" y="116" key="FileChooserDialogImpl" timestamp="1586970880203">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="467" y="81" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1584974312715" />
-    <state width="1324" height="175" key="GridCell.Tab.0.bottom" timestamp="1584731332705">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state x="656" y="116" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586970880203" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1587055669178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="175" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
-    <state width="1324" height="175" key="GridCell.Tab.0.center" timestamp="1584731332705">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587055669178" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1587055669178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="175" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
-    <state width="1324" height="175" key="GridCell.Tab.0.left" timestamp="1584731332705">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587055669178" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1587055669178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="175" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
-    <state width="1324" height="175" key="GridCell.Tab.0.right" timestamp="1584731332705">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587055669178" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1587055669178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="175" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1584731332705" />
-    <state x="210" y="0" key="SettingsEditor" timestamp="1584721597037">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587055669178" />
+    <state x="480" y="124" width="775" height="604" key="NewModule_or_Project.wizard" timestamp="1586968575736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="480" y="124" width="775" height="604" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586968575736" />
+    <state x="122" y="83" width="1674" height="853" key="SettingsEditor" timestamp="1586984152941">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="210" y="0" key="SettingsEditor/0.0.1366.724@0.0.1366.724" timestamp="1584721597036" />
-    <state x="400" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584973602022">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state x="122" y="83" width="1674" height="853" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586984152941" />
+    <state x="562" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1586969913098">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="400" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1584973602022" />
+    <state x="562" y="274" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586969913098" />
+    <state x="458" y="129" key="new project wizard" timestamp="1586969836190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="458" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586969836190" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1586972041680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586972041680" />
   </component>
 </project>
